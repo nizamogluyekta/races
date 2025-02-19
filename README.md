@@ -12,7 +12,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|2 | 26.01.2025 | Balıkesir | [Winter Run İstanbul](https://winterrunistanbul.com/) | Road | 10K  | [01:04:47](https://my.raceresult.com/325884/results) |
+|2 | 16.02.2025 | Balıkesir | [Winter Run İstanbul](https://winterrunistanbul.com/) | Road | 10K  | [01:04:47](https://my.raceresult.com/325884/results) |
 |1 | 26.01.2025 | Balıkesir | [14. Uğur Mumcu Anma Koşusu](https://www.kartal.bel.tr/Belediyemiz/Haberler/41127) | Road | 10K  | [01:06:16](https://hurratiming.com/event/3) |
 
 ### 2024
