@@ -1,6 +1,6 @@
 ## Overview
 
-| Year         |   Races     | Marathons | Half Marathons | 10k |
+| Year         |   Races     | Marathons | Half Marathons | 1k |
 |--------------|-----------| -----------| -----------| -----------|
 | 2025 |  3|  0| 0| 3|
 | 2024 |  4|  0| 0| 0|
