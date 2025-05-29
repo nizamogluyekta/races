@@ -12,6 +12,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|5 | 24.05.2025 | İstanbul | [4. Gebze Ultra Trail](https://www.gebzeultratrail.com/) | Trail | 10K  | [01:18:39](https://merbetiming.com/results/G-Live/g-live.html?f=..%2Fgebzeultra%2F2025%2Fgebze_ultra_trail_kosusu-2025.clax&B=10256) |
 |4 | 13.04.2025 | İstanbul | [Fast5 Challenge İstanbul](https://fast5challenge.com) | Road | 10K  | [01:02:21](https://hurratiming.com/event/15/21) |
 |3 | 02.03.2025 | İstanbul | [Ultimate Aydos](https://www.teamkronos.com/ultimate-aydos) | Trail | 10K  | [01:23:14](https://hurratiming.com/event/6/4) |
 |2 | 16.02.2025 | İstanbul | [Winter Run İstanbul](https://winterrunistanbul.com/) | Road | 10K  | [01:04:47](https://my.raceresult.com/325884/results) |
