@@ -2,7 +2,7 @@
 
 | Year         |   Races     | Marathons | Half Marathons | 10k |
 |--------------|-----------| -----------| -----------| -----------|
-| 2025 |  5|  0| 0| 5|
+| 2025 |  7|  0| 0| 6|
 | 2024 |  4|  0| 0| 0|
 | **Total** |  **9**|  **0** | **0**| **5**|
 
@@ -12,6 +12,8 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|7 | 13.04.2025 | Aksaray | [RunFire Salt Lake 15k Day&Night](https://runfiresaltlake.com) | Road | 10K  | [01:02:21](https://hurratiming.com/event/15/21) |
+|6 | 22.08.2025 | Aksaray | [RunFire Salt Lake 15k Day&Night](https://runfiresaltlake.com) | Road | 10K  | [01:02:21](https://hurratiming.com/event/15/21) |
 |5 | 24.05.2025 | İstanbul | [4. Gebze Ultra Trail](https://www.gebzeultratrail.com/) | Trail | 10K  | [01:18:39](https://merbetiming.com/results/G-Live/g-live.html?f=..%2Fgebzeultra%2F2025%2Fgebze_ultra_trail_kosusu-2025.clax&B=10256) |
 |4 | 13.04.2025 | İstanbul | [Fast5 Challenge İstanbul](https://fast5challenge.com) | Road | 10K  | [01:02:21](https://hurratiming.com/event/15/21) |
 |3 | 02.03.2025 | İstanbul | [Ultimate Aydos](https://www.teamkronos.com/ultimate-aydos) | Trail | 10K  | [01:23:14](https://hurratiming.com/event/6/4) |
