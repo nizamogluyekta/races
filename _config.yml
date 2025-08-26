@@ -1,14 +1,21 @@
-theme: minima
+remote_theme: jekyll/minima
 plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
+  - jekyll-feed
+  - jekyll-seo-tag
 title: Races
 description: My Race Results
 
-# Custom styling
+# Custom styling  
 sass:
   style: compressed
+
+# GitHub Pages settings
+url: "https://nizamogluyekta.github.io"
+baseurl: "/races"
+
+# Ensure assets are processed
+defaults:
+  - scope:
+      path: "assets/main.scss"
+    values:
+      sitemap: false
