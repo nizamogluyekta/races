@@ -119,7 +119,7 @@ table {
   margin: 2rem 0;
   background: rgba(42, 42, 42, 0.9);
   border-radius: 15px;
-  overflow: hidden;
+  overflow: visible; // Changed back to visible to fix last row issues
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(10px);
   border: 1px solid rgba(0, 212, 255, 0.3);
@@ -152,36 +152,19 @@ table {
     tr {
       transition: all 0.3s ease;
       border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-      position: relative;
-      isolation: isolate; // Create new stacking context
       
       &:hover {
         background: linear-gradient(90deg, 
-          rgba(0, 212, 255, 0.2) 0%, 
-          rgba(78, 205, 196, 0.15) 50%, 
-          rgba(0, 212, 255, 0.2) 100%);
+          rgba(0, 212, 255, 0.25) 0%, 
+          rgba(78, 205, 196, 0.2) 50%, 
+          rgba(0, 212, 255, 0.25) 100%) !important;
         box-shadow: 
-          0 0 15px rgba(0, 212, 255, 0.5),
-          inset 0 0 15px rgba(78, 205, 196, 0.1);
-        border-left: 4px solid $primary-color;
-        border-right: 4px solid $accent-color;
-        z-index: 2; // Lift hovered row above others
-        
-        // Single racing stripe effect
-        &::before {
-          content: '';
-          position: absolute;
-          top: 0;
-          left: 0;
-          width: 0%;
-          height: 100%;
-          background: linear-gradient(90deg, 
-            rgba(0, 212, 255, 0.4), 
-            rgba(78, 205, 196, 0.4));
-          animation: fillStripe 0.5s ease-out forwards;
-          pointer-events: none;
-          z-index: -1; // Behind content but above row background
-        }
+          0 4px 15px rgba(0, 212, 255, 0.4),
+          inset 0 2px 0 rgba(255, 255, 255, 0.1),
+          inset 0 0 20px rgba(78, 205, 196, 0.1) !important;
+        border-left: 3px solid $primary-color !important;
+        border-right: 3px solid $accent-color !important;
+        transform: translateY(-2px) !important;
       }
       
       &:last-child {
@@ -204,7 +187,6 @@ table {
       font-weight: 500;
       position: relative;
       transition: all 0.3s ease;
-      z-index: 1; // Ensure content stays above stripe
       
       strong {
         color: $secondary-color;
@@ -426,13 +408,16 @@ table:first-of-type {
   60% { transform: translateY(-45%); }
 }
 
-// Fill stripe animation - fills from left to right
-@keyframes fillStripe {
+// Simple pulse animation for enhanced effects
+@keyframes pulseGlow {
   0% {
-    width: 0%;
+    box-shadow: 0 0 5px rgba(0, 212, 255, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(0, 212, 255, 0.6);
   }
   100% {
-    width: 100%;
+    box-shadow: 0 0 5px rgba(0, 212, 255, 0.3);
   }
 }
 
