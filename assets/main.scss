@@ -153,49 +153,34 @@ table {
       transition: all 0.3s ease;
       border-bottom: 1px solid rgba(255, 255, 255, 0.1);
       position: relative;
-      overflow: hidden;
+      isolation: isolate; // Create new stacking context
       
       &:hover {
-        background: rgba(0, 212, 255, 0.1);
-        transform: scale(1.02);
+        background: linear-gradient(90deg, 
+          rgba(0, 212, 255, 0.2) 0%, 
+          rgba(78, 205, 196, 0.15) 50%, 
+          rgba(0, 212, 255, 0.2) 100%);
         box-shadow: 
-          0 5px 20px rgba(0, 212, 255, 0.4),
-          inset 0 0 20px rgba(78, 205, 196, 0.1);
+          0 0 15px rgba(0, 212, 255, 0.5),
+          inset 0 0 15px rgba(78, 205, 196, 0.1);
+        border-left: 4px solid $primary-color;
+        border-right: 4px solid $accent-color;
+        z-index: 2; // Lift hovered row above others
         
-        // Neon racing stripe from left to right
+        // Single racing stripe effect
         &::before {
           content: '';
           position: absolute;
           top: 0;
-          left: -100%;
-          width: 100%;
+          left: 0;
+          width: 0%;
           height: 100%;
           background: linear-gradient(90deg, 
-            transparent 0%,
-            rgba(0, 212, 255, 0.3) 30%,
-            rgba(78, 205, 196, 0.3) 70%,
-            transparent 100%);
-          animation: raceStripe 0.8s ease-out;
-          z-index: 1;
-        }
-        
-        // Glowing border effect
-        &::after {
-          content: '';
-          position: absolute;
-          top: -2px;
-          left: -2px;
-          right: -2px;
-          bottom: -2px;
-          background: linear-gradient(45deg, 
-            $primary-color, 
-            $accent-color, 
-            $primary-color);
-          border-radius: inherit;
-          opacity: 0.6;
-          filter: blur(6px);
-          z-index: -1;
-          animation: borderGlow 0.8s ease-out;
+            rgba(0, 212, 255, 0.4), 
+            rgba(78, 205, 196, 0.4));
+          animation: fillStripe 0.5s ease-out forwards;
+          pointer-events: none;
+          z-index: -1; // Behind content but above row background
         }
       }
       
@@ -219,7 +204,7 @@ table {
       font-weight: 500;
       position: relative;
       transition: all 0.3s ease;
-      z-index: 2; // Ensure content stays above racing stripe
+      z-index: 1; // Ensure content stays above stripe
       
       strong {
         color: $secondary-color;
@@ -441,37 +426,13 @@ table:first-of-type {
   60% { transform: translateY(-45%); }
 }
 
-// Racing stripe animation - sweeps from left to right
-@keyframes raceStripe {
+// Fill stripe animation - fills from left to right
+@keyframes fillStripe {
   0% {
-    left: -100%;
-    opacity: 0;
-  }
-  30% {
-    opacity: 1;
-  }
-  70% {
-    opacity: 1;
+    width: 0%;
   }
   100% {
-    left: 100%;
-    opacity: 0;
-  }
-}
-
-// Border glow animation
-@keyframes borderGlow {
-  0% {
-    opacity: 0;
-    transform: scale(0.95);
-  }
-  50% {
-    opacity: 0.8;
-    transform: scale(1.02);
-  }
-  100% {
-    opacity: 0.6;
-    transform: scale(1);
+    width: 100%;
   }
 }
 
