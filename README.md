@@ -5,31 +5,174 @@
 
 ## 📊 Performance Overview
 
-| Year         | 🏁 Races     | 🏆 Marathons | 🥈 Half Marathons | 🥉 10k |
-|--------------|-----------| -----------| -----------| -----------|
-| 2025 |  **7**|  **0**| **0**| **6**|
-| 2024 |  **4**|  **0**| **0**| **0**|
-| **🎯 Total** |  **11**|  **0** | **0**| **6**|
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>🏁 Races</th>
+      <th>🏆 Marathons</th>
+      <th>🥈 Half Marathons</th>
+      <th>🥉 10k</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025</td>
+      <td><strong>7</strong></td>
+      <td><strong>0</strong></td>
+      <td><strong>0</strong></td>
+      <td><strong>6</strong></td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td><strong>4</strong></td>
+      <td><strong>0</strong></td>
+      <td><strong>0</strong></td>
+      <td><strong>0</strong></td>
+    </tr>
+    <tr>
+      <td><strong>🎯 Total</strong></td>
+      <td><strong>11</strong></td>
+      <td><strong>0</strong></td>
+      <td><strong>0</strong></td>
+      <td><strong>6</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🏃‍♂️ Race Details
 
 ### 🌟 2025 Season
 
-|#️⃣ | 📅 Date         | 🏙️ City |  🏁 Race     | 🛤️ Type | 📏 Distance |⏱️ Time |
-|--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|7 | 23.08.2025 | Aksaray | [RunFire Salt Lake 15k Day&Night](https://runfiresaltlake.com) | 🌲 Trail | 10K  | [01:11:07](https://www.racetecresults.com/MyResults.aspx?uid=19782-116-9-93732) |
-|6 | 22.08.2025 | Aksaray | [RunFire Salt Lake 15k Day&Night](https://runfiresaltlake.com) | 🌲 Trail | 5K  | [00:31:41](https://www.racetecresults.com/MyResults.aspx?uid=19782-116-9-93732) |
-|5 | 24.05.2025 | İstanbul | [4. Gebze Ultra Trail](https://www.gebzeultratrail.com/) | 🌲 Trail | 10K  | [01:18:39](https://merbetiming.com/results/G-Live/g-live.html?f=..%2Fgebzeultra%2F2025%2Fgebze_ultra_trail_kosusu-2025.clax&B=10256) |
-|4 | 13.04.2025 | İstanbul | [Fast5 Challenge İstanbul](https://fast5challenge.com) | 🛣️ Road | 10K  | [01:02:21](https://hurratiming.com/event/15/21) |
-|3 | 02.03.2025 | İstanbul | [Ultimate Aydos](https://www.teamkronos.com/ultimate-aydos) | 🌲 Trail | 10K  | [01:23:14](https://hurratiming.com/event/6/4) |
-|2 | 16.02.2025 | İstanbul | [Winter Run İstanbul](https://winterrunistanbul.com/) | 🛣️ Road | 10K  | [01:04:47](https://my.raceresult.com/325884/results) |
-|1 | 26.01.2025 | İstanbul | [14. Uğur Mumcu Anma Koşusu](https://www.kartal.bel.tr/Belediyemiz/Haberler/41127) | 🛣️ Road | 10K  | [01:06:16](https://hurratiming.com/event/3) |
+<table>
+  <thead>
+    <tr>
+      <th>#️⃣</th>
+      <th>📅 Date</th>
+      <th>🏙️ City</th>
+      <th>🏁 Race</th>
+      <th>🛤️ Type</th>
+      <th>📏 Distance</th>
+      <th>⏱️ Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>7</td>
+      <td>23.08.2025</td>
+      <td>Aksaray</td>
+      <td><a href="https://runfiresaltlake.com">RunFire Salt Lake 15k Day&Night</a></td>
+      <td>🌲 Trail</td>
+      <td>10K</td>
+      <td><a href="https://www.racetecresults.com/MyResults.aspx?uid=19782-116-9-93732">01:11:07</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>22.08.2025</td>
+      <td>Aksaray</td>
+      <td><a href="https://runfiresaltlake.com">RunFire Salt Lake 15k Day&Night</a></td>
+      <td>🌲 Trail</td>
+      <td>5K</td>
+      <td><a href="https://www.racetecresults.com/MyResults.aspx?uid=19782-116-9-93732">00:31:41</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>24.05.2025</td>
+      <td>İstanbul</td>
+      <td><a href="https://www.gebzeultratrail.com/">4. Gebze Ultra Trail</a></td>
+      <td>🌲 Trail</td>
+      <td>10K</td>
+      <td><a href="https://merbetiming.com/results/G-Live/g-live.html?f=..%2Fgebzeultra%2F2025%2Fgebze_ultra_trail_kosusu-2025.clax&B=10256">01:18:39</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>13.04.2025</td>
+      <td>İstanbul</td>
+      <td><a href="https://fast5challenge.com">Fast5 Challenge İstanbul</a></td>
+      <td>🛣️ Road</td>
+      <td>10K</td>
+      <td><a href="https://hurratiming.com/event/15/21">01:02:21</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>02.03.2025</td>
+      <td>İstanbul</td>
+      <td><a href="https://www.teamkronos.com/ultimate-aydos">Ultimate Aydos</a></td>
+      <td>🌲 Trail</td>
+      <td>10K</td>
+      <td><a href="https://hurratiming.com/event/6/4">01:23:14</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>16.02.2025</td>
+      <td>İstanbul</td>
+      <td><a href="https://winterrunistanbul.com/">Winter Run İstanbul</a></td>
+      <td>🛣️ Road</td>
+      <td>10K</td>
+      <td><a href="https://my.raceresult.com/325884/results">01:04:47</a></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>26.01.2025</td>
+      <td>İstanbul</td>
+      <td><a href="https://www.kartal.bel.tr/Belediyemiz/Haberler/41127">14. Uğur Mumcu Anma Koşusu</a></td>
+      <td>🛣️ Road</td>
+      <td>10K</td>
+      <td><a href="https://hurratiming.com/event/3">01:06:16</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 🎯 2024 Season
 
-|#️⃣ | 📅 Date         | 🏙️ City |  🏁 Race     | 🛤️ Type | 📏 Distance |⏱️ Time |
-|--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|4 | 01.12.2024 | Balıkesir | [İDAULTRA 24](https://www.idaultra.com/#intro) | 🌲 Trail | 8.5K  | [01:01:02](https://argeustiming.com/results/g-live/g-live.html?f=../idaultra/2024/ida2024.clax) |
-|3 | 24.11.2024 | İstanbul | [Ultimate Ümraniye](https://www.teamkronos.com/ultimate-umraniye) | 🛣️ Road | 7K  | [00:47:41](https://hurratiming.com/live/race/ultimateumraniye) |
-|2 | 13.10.2024 | Yalova | [5. Yalova Kivi Koşusu](https://kivikosusu.com/) | 🛣️ Road | 5K  | [00:35:28](https://racetiming.com.tr/sonuclar/5-yalova-kivi-kosusu-2024/) |
-|1 | 06.10.2024 | Bursa | [11. Eker I Run](https://www.ekerkosu.com/) | 🛣️ Road | 5K | [00:39:37](https://sonuc.plustiming.com/myresults.aspx?uid=16389-281-3-238347) |
+<table>
+  <thead>
+    <tr>
+      <th>#️⃣</th>
+      <th>📅 Date</th>
+      <th>🏙️ City</th>
+      <th>🏁 Race</th>
+      <th>🛤️ Type</th>
+      <th>📏 Distance</th>
+      <th>⏱️ Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>4</td>
+      <td>01.12.2024</td>
+      <td>Balıkesir</td>
+      <td><a href="https://www.idaultra.com/#intro">İDAULTRA 24</a></td>
+      <td>🌲 Trail</td>
+      <td>8.5K</td>
+      <td><a href="https://argeustiming.com/results/g-live/g-live.html?f=../idaultra/2024/ida2024.clax">01:01:02</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>24.11.2024</td>
+      <td>İstanbul</td>
+      <td><a href="https://www.teamkronos.com/ultimate-umraniye">Ultimate Ümraniye</a></td>
+      <td>🛣️ Road</td>
+      <td>7K</td>
+      <td><a href="https://hurratiming.com/live/race/ultimateumraniye">00:47:41</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>13.10.2024</td>
+      <td>Yalova</td>
+      <td><a href="https://kivikosusu.com/">5. Yalova Kivi Koşusu</a></td>
+      <td>🛣️ Road</td>
+      <td>5K</td>
+      <td><a href="https://racetiming.com.tr/sonuclar/5-yalova-kivi-kosusu-2024/">00:35:28</a></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>06.10.2024</td>
+      <td>Bursa</td>
+      <td><a href="https://www.ekerkosu.com/">11. Eker I Run</a></td>
+      <td>🛣️ Road</td>
+      <td>5K</td>
+      <td><a href="https://sonuc.plustiming.com/myresults.aspx?uid=16389-281-3-238347">00:39:37</a></td>
+    </tr>
+  </tbody>
+</table>
