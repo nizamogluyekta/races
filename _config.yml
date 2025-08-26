@@ -1,21 +1,14 @@
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+theme: minima
 title: Races
 description: My Race Results
-
-# Custom styling  
-sass:
-  style: compressed
-
-# GitHub Pages settings
 url: "https://nizamogluyekta.github.io"
 baseurl: "/races"
 
-# Ensure assets are processed
-defaults:
-  - scope:
-      path: "assets/main.scss"
-    values:
-      sitemap: false
+# Enable plugins that GitHub Pages supports
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Custom styling
+sass:
+  style: compressed
