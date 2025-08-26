@@ -8,3 +8,7 @@ include:
   - README.md
 title: Races
 description: My Race Results
+
+# Custom styling
+sass:
+  style: compressed
