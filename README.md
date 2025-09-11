@@ -62,7 +62,7 @@
       <td>31.08.2025</td>
       <td>İstanbul</td>
       <td><a href="https://summerrun.com.tr">Summer Run Istanbul</a></td>
-      <td>🌲 Trail</td>
+      <td>🛣️ Road</td>
       <td>10K</td>
       <td><a href="https://www.racetecresults.com/myresults.aspx?uid=19782-117-2-99080">01:04:05</a></td>
     </tr>
