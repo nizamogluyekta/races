@@ -18,10 +18,10 @@
   <tbody>
     <tr>
       <td>2025</td>
+      <td><strong>8</strong></td>
+      <td><strong>0</strong></td>
+      <td><strong>0</strong></td>
       <td><strong>7</strong></td>
-      <td><strong>0</strong></td>
-      <td><strong>0</strong></td>
-      <td><strong>6</strong></td>
     </tr>
     <tr>
       <td>2024</td>
