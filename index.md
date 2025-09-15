@@ -13,7 +13,7 @@ description: "Track my racing journey across Turkey with real-time statistics an
 
 | Year         | 🏁 Races     | 🏆 Marathons | 🥈 Half Marathons | 🥉 10k |
 |--------------|-----------| -----------| -----------| -----------|
-| 2025 |  **7**|  **0**| **0**| **6**|
+| 2025 |  **8**|  **0**| **0**| **7**|
 | 2024 |  **4**|  **0**| **0**| **0**|
 | **🎯 Total** |  **11**|  **0** | **0**| **6**|
 
@@ -23,6 +23,7 @@ description: "Track my racing journey across Turkey with real-time statistics an
 
 |#️⃣ | 📅 Date         | 🏙️ City |  🏁 Race     | 🛤️ Type | 📏 Distance |⏱️ Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|8 | 31.08.2025 | İstanbul | [Summer Run Istanbul](https://summerrun.com.tr) | 🛣️ Road | 10K  | [01:04:05](https://www.racetecresults.com/myresults.aspx?uid=19782-117-2-99080) |
 |7 | 23.08.2025 | Aksaray | [RunFire Salt Lake 15k Day&Night](https://runfiresaltlake.com) | 🌲 Trail | 10K  | [01:11:07](https://www.racetecresults.com/MyResults.aspx?uid=19782-116-9-93732) |
 |6 | 22.08.2025 | Aksaray | [RunFire Salt Lake 15k Day&Night](https://runfiresaltlake.com) | 🌲 Trail | 5K  | [00:31:41](https://www.racetecresults.com/MyResults.aspx?uid=19782-116-9-93732) |
 |5 | 24.05.2025 | İstanbul | [4. Gebze Ultra Trail](https://www.gebzeultratrail.com/) | 🌲 Trail | 10K  | [01:18:39](https://merbetiming.com/results/G-Live/g-live.html?f=..%2Fgebzeultra%2F2025%2Fgebze_ultra_trail_kosusu-2025.clax&B=10256) |
