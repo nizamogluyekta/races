@@ -18,10 +18,10 @@
   <tbody>
     <tr>
       <td>2025</td>
+      <td><strong>9</strong></td>
+      <td><strong>0</strong></td>
+      <td><strong>0</strong></td>
       <td><strong>8</strong></td>
-      <td><strong>0</strong></td>
-      <td><strong>0</strong></td>
-      <td><strong>7</strong></td>
     </tr>
     <tr>
       <td>2024</td>
@@ -57,6 +57,15 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>9</td>
+      <td>14.09.2025</td>
+      <td>İstanbul</td>
+      <td><a href="https://istanbulukosuyorum.istanbul">İstanbul'u Koşuyorum Asya Etabı (Üsküdar)</a></td>
+      <td>🛣️ Road</td>
+      <td>10K</td>
+      <td><a href="https://results.splittime.nl/results/ShowEvent.aspx?EventID=5833">01:00:22</a></td>
+    </tr>
     <tr>
       <td>8</td>
       <td>31.08.2025</td>
