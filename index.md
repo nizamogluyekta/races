@@ -13,9 +13,9 @@ description: "Track my racing journey across Turkey with real-time statistics an
 
 | Year         | 🏁 Races     | 🏆 Marathons | 🥈 Half Marathons | 🥉 10k |
 |--------------|-----------| -----------| -----------| -----------|
-| 2025 |  **10**|  **0**| **0**| **9**|
+| 2025 |  **11**|  **0**| **0**| **9**|
 | 2024 |  **4**|  **0**| **0**| **0**|
-| **🎯 Total** |  **14**|  **0** | **0**| **9**|
+| **🎯 Total** |  **15**|  **0** | **0**| **9**|
 
 ## 🏃‍♂️ Race Details
 
@@ -23,6 +23,7 @@ description: "Track my racing journey across Turkey with real-time statistics an
 
 |#️⃣ | 📅 Date         | 🏙️ City |  🏁 Race     | 🛤️ Type | 📏 Distance |⏱️ Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|11 | 19.10.2025 | İstanbul | [Büyükada Yarı Maratonu](https://buyukadayarimaratonu.com) | 🛣️ Road | 10K  | [01:03:05](https://my.raceresult.com/366142/results#0_2AAA81) |
 |10 | 12.10.2025 | İstanbul | [Bosphorun Bebek](https://bosphorun.istanbul) | 🛣️ Road | 10.5K  | [01:01:13](https://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=315&EId=3&AId=295752) |
 |9 | 14.09.2025 | İstanbul | [İstanbul'u Koşuyorum Asya Etabı (Üsküdar)](https://istanbulukosuyorum.istanbul) | 🛣️ Road | 10K  | [01:00:22](https://results.splittime.nl/results/ShowEvent.aspx?EventID=5833) |
 |8 | 31.08.2025 | İstanbul | [Summer Run Istanbul](https://summerrun.com.tr) | 🛣️ Road | 10K  | [01:04:05](https://www.racetecresults.com/myresults.aspx?uid=19782-117-2-99080) |

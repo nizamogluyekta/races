@@ -18,7 +18,7 @@
   <tbody>
     <tr>
       <td>2025</td>
-      <td><strong>10</strong></td>
+      <td><strong>11</strong></td>
       <td><strong>0</strong></td>
       <td><strong>0</strong></td>
       <td><strong>9</strong></td>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td><strong>🎯 Total</strong></td>
-      <td><strong>14</strong></td>
+      <td><strong>15</strong></td>
       <td><strong>0</strong></td>
       <td><strong>0</strong></td>
       <td><strong>9</strong></td>
@@ -57,6 +57,15 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>11</td>
+      <td>19.10.2025</td>
+      <td>İstanbul</td>
+      <td><a href="https://buyukadayarimaratonu.com">Büyükada Yarı Maratonu</a></td>
+      <td>🛣️ Road</td>
+      <td>10K</td>
+      <td><a href="https://my.raceresult.com/366142/results#0_2AAA81">01:03:05</a></td>
+    </tr>
     <tr>
       <td>10</td>
       <td>12.10.2025</td>
