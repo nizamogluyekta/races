@@ -18,10 +18,10 @@
   <tbody>
     <tr>
       <td>2025</td>
+      <td><strong>10</strong></td>
+      <td><strong>0</strong></td>
+      <td><strong>0</strong></td>
       <td><strong>9</strong></td>
-      <td><strong>0</strong></td>
-      <td><strong>0</strong></td>
-      <td><strong>8</strong></td>
     </tr>
     <tr>
       <td>2024</td>
@@ -32,10 +32,10 @@
     </tr>
     <tr>
       <td><strong>🎯 Total</strong></td>
-      <td><strong>11</strong></td>
+      <td><strong>14</strong></td>
       <td><strong>0</strong></td>
       <td><strong>0</strong></td>
-      <td><strong>6</strong></td>
+      <td><strong>9</strong></td>
     </tr>
   </tbody>
 </table>
@@ -57,6 +57,15 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>10</td>
+      <td>12.10.2025</td>
+      <td>İstanbul</td>
+      <td><a href="https://bosphorun.istanbul">Bosphorun Bebek</a></td>
+      <td>🛣️ Road</td>
+      <td>10K</td>
+      <td><a href="https://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=315&EId=3&AId=295752">01:01:13</a></td>
+    </tr>
     <tr>
       <td>9</td>
       <td>14.09.2025</td>
