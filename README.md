@@ -18,7 +18,7 @@
   <tbody>
     <tr>
       <td>2025</td>
-      <td><strong>11</strong></td>
+      <td><strong>12</strong></td>
       <td><strong>0</strong></td>
       <td><strong>0</strong></td>
       <td><strong>9</strong></td>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td><strong>🎯 Total</strong></td>
-      <td><strong>15</strong></td>
+      <td><strong>16</strong></td>
       <td><strong>0</strong></td>
       <td><strong>0</strong></td>
       <td><strong>9</strong></td>
@@ -57,6 +57,15 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>12</td>
+      <td>02.11.2025</td>
+      <td>İstanbul</td>
+      <td><a href="https://maraton.istanbul">İstanbul Maratonu</a></td>
+      <td>🛣️ Road</td>
+      <td>15.5K</td>
+      <td><a href="https://results.splittime.nl/results/ShowEvent.aspx?EventID=6832">01:38:47</a></td>
+    </tr>
     <tr>
       <td>11</td>
       <td>19.10.2025</td>
