@@ -63,7 +63,7 @@
       <td>İstanbul</td>
       <td><a href="https://bosphorun.istanbul">Bosphorun Bebek</a></td>
       <td>🛣️ Road</td>
-      <td>10K</td>
+      <td>10.5K</td>
       <td><a href="https://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=315&EId=3&AId=295752">01:01:13</a></td>
     </tr>
     <tr>
